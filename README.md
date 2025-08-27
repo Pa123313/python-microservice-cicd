@@ -76,12 +76,19 @@ ECS Service Running Tasks ⚡
 
 Application Response from Browser 🌍
 
+## Project Screenshots  
 
-<img width="1366" height="258" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0e27d38f-48b9-402f-8285-1f4ad6c87bcc" />
-<img width="1354" height="563" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7fb784ad-ecab-4542-96f0-7888f1156bc3" />
-<img width="1071" height="97" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/1f0ed58c-54b9-451f-86d6-79b4d6217e93" />
-<img width="1366" height="575" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3d5e5d10-416d-48f8-adce-f535fb54f0c6" />
+### 1. Docker Image in Amazon ECR  
+![ECR Repository](images/ecr-repo.png)
 
+### 2. ECS Cluster Running the Service  
+![ECS Cluster](images/ecs-cluster.png)
+
+### 3. ECS Task with Running Container  
+![ECS Task](images/ecs-task.png)
+
+### 4. API Test Output from Deployed Service  
+![Test Output](images/test-output.png)
 
 This project is an excellent demonstration of real-world DevOps practices:
 
@@ -90,5 +97,5 @@ This project is an excellent demonstration of real-world DevOps practices:
 ✔️ Secure & scalable AWS hosting
 ✔️ Monitoring endpoints for production readiness
 
-It highlights hands-on skills with AWS, Docker, and GitHub Actions — making it a strong portfolio piece for DevOps / Cloud Engineer roles.
+It highlights hands-on skills with AWS, Docker, and GitHub Actions.
 
